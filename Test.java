@@ -1,7 +1,7 @@
 class Test
 {
-	public static void main(String args[])
+	pub list void m2()
 	{
-		System.out.println("namaste, India");
+		System.out.println("Inside m2");
 	}
 }
